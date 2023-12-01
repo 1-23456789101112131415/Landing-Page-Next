@@ -15,7 +15,7 @@ const Home = (props) => {
               <div className="home-container1">
                 <img
                   alt="image"
-                  src="https://play.teleporthq.io/static/svg/default-img.svg"
+                  src="https://www.ledr.com/colours/white.jpg"
                   className="home-image"
                 />
                 <div data-role="CloseMobileMenu" className="home-close-menu">
